@@ -1,0 +1,2 @@
+# Employee-Turnover---HR-Analytics
+Implemented Logistic Regression, Random Forest Classification and Support Vector Machine classification algorithms to not just predict whether an employee will leave the company within a certain time frame, but rather have an estimate of the probability that he/she will leave the company. Performed K-Means clustering to find meaningful patterns of employee traits and created different retention strategies on targeted employees.
